@@ -1,0 +1,6 @@
+@IConductTestService_HostAddress = http://localhost:5259
+
+GET {{IConductTestService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
